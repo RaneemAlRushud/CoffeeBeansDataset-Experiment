@@ -13,7 +13,22 @@
 <h2> 💠 Visualizing Dataset </h2>
 
 
+Dataset Visualisation#1 : <details>
+           <summary>  4D-Plotting  </summary>
+           <p> <img width="500" alt="image" src="https://user-images.githubusercontent.com/59771760/211105898-71e440d4-2718-454d-8530-03e77383cb47.png"> </p>
+         </details>
+
+Dataset Visualisation#2 : <details>
+           <summary> Pair-Plot </summary>
+           <p> <img width="500" alt="image" src="https://user-images.githubusercontent.com/59771760/211105219-93599023-a07e-433c-a66b-4046ae86d776.png"> </p>
+         </details>
+
 
 
 <h2> 💠 Algorithms Used </h2>
-
+<li>  </li>
+<li>  </li>
+<li>  </li>
+<li> Clustering with   </li>
+<li>  </li>
+<li>  </li>
