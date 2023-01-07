@@ -10,7 +10,7 @@
 <li> iii.	 Determine if there are significant differences between bean shapes. </li>
 <li> iv.	The cup quality attributes of Oro Azteca variety has the least cup quality. </li>
 
-<h2> 💠 Visualizing Dataset </h2>
+<h2> 💠 Visualizing Dataset (arrows are clickable) </h2>
 
 
 🔘 Dataset Visualisation#1 : <details>
