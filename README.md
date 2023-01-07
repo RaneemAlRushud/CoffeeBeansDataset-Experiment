@@ -51,20 +51,19 @@
          
 🔘 US-L#1 : <details>
            <summary>  Clustering with K=2:  </summary>
-           <p> <img width="500" alt="image" src="https://user-images.githubusercontent.com/59771760/211157152-d5fbcbee-c31b-4e6b-b47b-726eb989b84f.png"
+           <p> <img width="500" alt="image" src="https://user-images.githubusercontent.com/59771760/211157152-d5fbcbee-c31b-4e6b-b47b-726eb989b84f.png">
            </p>
-
          </details>        
 
 🔘 US-L#2 : <details>
            <summary>  Clustering with K=3:  </summary>
-           <p> <img width="500" alt="image" src="https://user-images.githubusercontent.com/59771760/211157196-3b3b18f0-2d54-43eb-8ab8-3f14c83bc5f0.png"
+           <p> <img width="500" alt="image" src="https://user-images.githubusercontent.com/59771760/211157196-3b3b18f0-2d54-43eb-8ab8-3f14c83bc5f0.png">
            </p>
          </details>    
          
 🔘 US-L#3 : <details>
            <summary>  Clustering with K=4:  </summary>
-           <p> <img width="500" alt="image" src="https://user-images.githubusercontent.com/59771760/211157214-a5d10387-4175-46fc-a8b4-5c4decea6e15.png"
+           <p> <img width="500" alt="image" src="https://user-images.githubusercontent.com/59771760/211157214-a5d10387-4175-46fc-a8b4-5c4decea6e15.png">
            </p>
          </details>          
 
