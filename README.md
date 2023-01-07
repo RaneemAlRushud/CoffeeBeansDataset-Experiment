@@ -39,13 +39,13 @@
          
 🔘 SL#2 :   <details>
            <summary>  Random Forest:  </summary>
-           <p> <img width="500" alt="image" src="https://user-images.githubusercontent.com/59771760/211156508-a0291951-297a-458c-814a-0661762c4de2.jpg"
+           <p> <img width="500" alt="image" src="https://user-images.githubusercontent.com/59771760/211156508-a0291951-297a-458c-814a-0661762c4de2.jpg">
            </p>
          </details>
          
 🔘 SL#3 : <details>
            <summary>  Random Forest Decision Tree:  </summary>
-           <p> <img width="500" alt="image" src="https://user-images.githubusercontent.com/59771760/211156200-7774a03c-95f0-4c84-819d-b68f62c0d73b.jpg"
+           <p> <img width="500" alt="image" src="https://user-images.githubusercontent.com/59771760/211156200-7774a03c-95f0-4c84-819d-b68f62c0d73b.jpg">
            </p>
          </details>
          
